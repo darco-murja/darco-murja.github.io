@@ -8,7 +8,7 @@
         <link href="https://fonts.googleapis.com/css?family=Scheherazade&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Cinzel&display=swap" rel="stylesheet"> 
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-        <link rel="stylesheet" href="styles/main.css">
+        <link rel="stylesheet" href="main.css">
     </head> 
     <body>
         <header>
@@ -49,7 +49,7 @@
     <section class="about" id="about">
         <div class="container">
             <div class="progile-img" data-aos="fade-right" data-aos-delay="300">
-                <img src="images/profile_picture.jpg" alt="">
+                <img src="profile_picture.jpg" alt="">
             </div>
             <div class="about-details" data-aos="fade-left" data-aos-delay="600">
                 <div class="about-heading">
@@ -122,7 +122,7 @@
             </div>
             <div class="portfolio-item">
                 <div class="portfolio-img has-margin-right" data-aos="fade-right" data-aos-delay="300">
-                    <img src="images/osut_screenshots.png" alt="">
+                    <img src="osut_screenshots.png" alt="">
                 </div>
                 <div class="portfolio-description" data-aos="fade-left" data-aos-delay="700">
                     <h6>Android</h6>
@@ -166,12 +166,12 @@
                     <a href="#" class="cta">View Details</a>
                 </div>
                 <div class="portfolio-img" data-aos="fade-left" data-aos-delay="1200">
-                    <img src="images/portitem2.jpeg" alt="">
+                    <img src="portitem2.jpeg" alt="">
                 </div>
             </div>
             <div class="portfolio-item">
                 <div class="portfolio-img has-margin-right" data-aos="fade-right" data-aos-delay="1500">
-                    <img src="images/portitem3.jpeg" alt="">
+                    <img src="portitem3.jpeg" alt="">
                 </div>
                 <div class="portfolio-description" data-aos="fade-left" data-aos-delay="1800">
                     <h6>Web Design</h6>
