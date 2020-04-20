@@ -18,7 +18,7 @@ body {
     background-size: cover;
 }
 section{
-    padding: 3.5rem 0;
+    padding: 1.8rem 0;
 }
 
 a {
@@ -38,14 +38,14 @@ img {
 /* Reusables */
 .container{
     width: 90%;
-    max-width: 80rem;
+    max-width: 100rem;
     height: 100%;
     margin: 0 auto;
     position: relative;
 }
 .section-heading{
     text-align: center;
-    margin-bottom: 4rem;
+    margin-bottom: 2.7rem;
 }
 .section-heading h1{
     font-size: 3.5rem;
