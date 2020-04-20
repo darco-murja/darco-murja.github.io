@@ -195,7 +195,7 @@ li {
     z-index: 1;
 }
 .landing-text h1{
-    font-size: 10rem;
+    font-size: 6rem;
     font-family: 'Cinzel', serif;
     background: #c0b283;
     background-clip: text;
@@ -209,7 +209,7 @@ li {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     font-family: 'Scheherazade', serif;
     font-weight: 500;
 }
@@ -225,15 +225,15 @@ li {
     text-align: center;
     text-transform: uppercase;
     line-height: 0;
-    margin-bottom: 6rem;
+    margin-bottom: 3rem;
 }
 .about-heading h1{
-    font-size: 4.6rem;
+    font-size: 3rem;
     opacity: .3;
 
 }
 .about-heading h6{
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     font-weight: 300;
     opacity: .3;
 }
@@ -287,10 +287,10 @@ li {
 .skill h1{
     text-transform: uppercase;
     letter-spacing: 2px;
-    margin: 2rem -2px 2rem 0;
+    margin: 1.5rem -2px 2rem 0;
 }
 .icon-container{
-    width: 86rem;
+    width: 6rem;
     height: 6rem;
     border: 3px solid #b76e79;
     background-color: #F2F2F2;
