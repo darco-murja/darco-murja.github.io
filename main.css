@@ -311,7 +311,7 @@ li {
 .portfolio-item{
     display: flex;
     float: left;
-    
+    allign-item:left;
     justify-content: center;
     margin-bottom: 5rem;    
 }
