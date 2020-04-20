@@ -79,7 +79,7 @@ img {
     bottom: -1rem;
 }
 .section-heading h6{
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     font-weight: 300;
 }
 
@@ -228,12 +228,12 @@ li {
     margin-bottom: 6rem;
 }
 .about-heading h1{
-    font-size: 10rem;
+    font-size: 7rem;
     opacity: .3;
 
 }
 .about-heading h6{
-    font-size: 2rem;
+    font-size: 1.3rem;
     font-weight: 300;
     opacity: .3;
 }
@@ -477,10 +477,10 @@ input[type="submit"]::hover{
 }
 
 .landing-text h1{
-    font-size: 7rem;
+    font-size: 6.5rem;
 }
 .landing-text h6{
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 @keyframes pulse{
     0%{
