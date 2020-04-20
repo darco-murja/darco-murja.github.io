@@ -229,13 +229,13 @@ li {
 }
 .about-heading h1{
     font-size: 3.5rem;
-    opacity: .3;
+    opacity: .6;
 
 }
 .about-heading h6{
     font-size: 1.9rem;
     font-weight: 300;
-    opacity: .7;
+    opacity: .6;
     margin: 1rem 0 1rem
 }
 
